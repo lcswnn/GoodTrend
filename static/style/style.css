@@ -158,7 +158,7 @@ hr.animated {
   opacity: 0.16; 
 
   /* Inline SVG generating the noise */
-  background-image: url(/images/noise.jpg);
+  background-image: url(/static/images/noise.jpg);
 }
 /* --- END OF GRAIN OVERLAY --- */
 
